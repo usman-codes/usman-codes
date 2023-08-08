@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-codes" alt="usman-codes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/usman" target="blank"><img src="https://img.shields.io/twitter/follow/usman?logo=twitter&style=for-the-badge" alt="usman" /></a> </p>
-
 - 💬 Ask me about **Flutter,Dart,Firbase**
 
 - 📫 How to reach me **usmanamin31045@gmail.com**
@@ -15,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usman amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman amin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usman-amin-95b216223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-amin-95b216223" height="30" width="40" /></a>
+<a href="https://fb.com/usman amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usman amin" height="30" width="40" /></a>
 <a href="https://instagram.com/its_usmanamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_usmanamin" height="30" width="40" /></a>
 </p>
 
