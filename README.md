@@ -1,5 +1,7 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
 <h1 align="center">Hi 👋, I'm Muhmmad Usman</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-codes&label=Profile%20views&color=0e75b6&style=flat" alt="usman-codes" /> </p>
 
