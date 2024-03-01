@@ -3,7 +3,7 @@
 ![Profile Image](https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-codes&label=Profile%20views&color=0e75b6&style=flat" alt="usman-codes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-codes" alt="usman-codes" /></a> </p>
+
 
 - 📫 How to reach me **usmanamin31045@gmail.com**
 
